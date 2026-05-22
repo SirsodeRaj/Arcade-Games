@@ -5,7 +5,6 @@
 A neon glassmorphism arcade built with **React 18 + Tailwind CSS + Vite**.  
 Every game runs entirely in the browser with zero backend.
 
-![PIXELVAULT Screenshot](https://via.placeholder.com/900x450/04040c/ffe66d?text=PIXELVAULT)
 
 ---
 
